@@ -1,3 +1,8 @@
+/** 
+ * 强制转换
+ * 
+*/
+
 #include <iostream>
 using namespace std;
 
