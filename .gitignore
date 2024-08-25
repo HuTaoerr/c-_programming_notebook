@@ -1,1 +1,3 @@
-.o
+*.dSYM/
+output
+.vscode
