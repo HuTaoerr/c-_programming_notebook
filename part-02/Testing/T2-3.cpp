@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    for (int i = 0; i < 5; i++)
+    for (int i = 0; i < 5; i++) // 进行5次测试
     {
         double num;
         cout << "Please enter a decimals , we outputs the nearest integer to the number: ";
