@@ -4,6 +4,9 @@
 #include <iostream>
 using namespace std;
 
+const double conversion = 2.45;
+const int inchesPerFoot = 12;
+
 int main()
 {
     double cm, inches, feet, totalinches;
@@ -11,8 +14,8 @@ int main()
     cout << "I help you to matrixing, Enter the feet and inches: " << endl;
     cin >> feet >> inches;
 
-    totalinches = 12 * feet + inches;
-    cm = 2.54 * totalinches;
+    totalinches = inchesPerFoot * feet + inches;
+    cm = conversion * totalinches;
     cout << "cm is : " << cm << "cm" << endl;
 
     return 0;
