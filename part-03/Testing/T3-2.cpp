@@ -1,5 +1,9 @@
 /*
 提示用户输入一个小数，程序将该小数四舍五入后保留2位小数
+
+输出：
+Enter a decimal and you will get a decimal with a precision of 2:  9.567898
+9.57
 */
 
 #include <iostream>
