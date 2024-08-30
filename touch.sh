@@ -3,14 +3,14 @@
 # 获取创建路径
 # echo "请输入创建的文件将要存放路径：比如./part-02/Testing"
 # read a
-# a="./part-04/Testing" 
-a="./part-04/Example" 
+a="./part-04/Testing" 
+# a="./part-04/Example" 
 
 # 获取创建的文件前缀
 # echo "请输入文件名前部："
 # read b
-# b="T4-"
-b="E4-"
+b="T4-"
+# b="E4-"
 
 
 #获取增加的序号
