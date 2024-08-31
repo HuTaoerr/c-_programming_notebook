@@ -28,7 +28,7 @@ int main()
     }
     else
     {
-        cout << "转换： " << ch << endl;
+        cout << "转换成ABC： " << ch << endl;
     }
 
     return 0;

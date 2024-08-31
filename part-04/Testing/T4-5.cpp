@@ -1,8 +1,8 @@
+#include <iostream>
 
-    #include <iostream> 
-    using namespace std; 
-
-    int main()
-    {
-        return 0;
-    }
+int main()
+{
+    double result = 0.1 / 0;
+    std::cout << "Result: " << result << std::endl;
+    return 0;
+} /*  */
